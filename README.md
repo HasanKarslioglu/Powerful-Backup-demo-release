@@ -7,7 +7,7 @@ This repository contains the executable file for **Powerful-Backup**, a simple a
 ### Installation
 
 1. **Download the Executable:**
-   - Visit the [Releases](https://github.com/HasanKarslioglu/Powerful-Backup-demo-release/releases) page.
+   - Visit the [Releases](https://github.com/HasanKarslioglu/Powerful-Backup-demo-release/tree/main/Releases) page.
    - Download the latest version of `Powerful-Backup.exe`.
 
 2. **Run the Executable:**
