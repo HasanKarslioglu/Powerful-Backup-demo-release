@@ -51,14 +51,14 @@ This repository contains the executable file for **Powerful-Backup**, a simple a
 
 
 ### Main Screen
-![Main Screen](screenshots/main-screen.png)
+![Main Screen](https://github.com/HasanKarslioglu/Powerful-Backup-demo-release/blob/main/screenshots/Main%20Screen.png)
 
 ### Database Server Selection
-![Database Server Selection](screenshots/database-server-selection-screen.png)
-![Database Server Selection (Alternative)](screenshots/database-server-selection-screen-2.png)
+![Database Server Selection](https://github.com/HasanKarslioglu/Powerful-Backup-demo-release/blob/main/screenshots/Database%20Server%20Selection%20Screen.png)
+![Database Server Selection (Alternative)](https://github.com/HasanKarslioglu/Powerful-Backup-demo-release/blob/main/screenshots/Database%20Server%20Selection%20Screen%202.png)
 
 ### Database Names Selection
-![Database Names Selection](screenshots/database-names-selection-screen.png)
+![Database Names Selection](https://github.com/HasanKarslioglu/Powerful-Backup-demo-release/blob/main/screenshots/Database%20Selection%20Screen.png)
 
 ### Cloud Storage Authorization
-![Cloud Storage Authorization](screenshots/cloud-storage-provider-selection-screen.png)
+![Cloud Storage Authorization](https://github.com/HasanKarslioglu/Powerful-Backup-demo-release/blob/main/screenshots/Cloud%20Storage%20Provider%20Selection%20Screen.png)
