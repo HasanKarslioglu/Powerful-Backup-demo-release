@@ -45,3 +45,20 @@ This repository contains the executable file for **Powerful-Backup**, a simple a
 - **Backup Integrity Checks:** Implement a feature that verifies the integrity of backup files to ensure they are complete and not corrupted.
 - **Custom Backup File Naming:** Enable users to customize the naming convention for backup files for easier organization and retrieval.
 - **Cross-Platform Compatibility:** Ensure the tool is compatible with multiple operating systems such as macOS and Linux, in addition to Windows.
+
+
+## Screenshots
+
+
+### Main Screen
+![Main Screen](screenshots/main-screen.png)
+
+### Database Server Selection
+![Database Server Selection](screenshots/database-server-selection-screen.png)
+![Database Server Selection (Alternative)](screenshots/database-server-selection-screen-2.png)
+
+### Database Names Selection
+![Database Names Selection](screenshots/database-names-selection-screen.png)
+
+### Cloud Storage Authorization
+![Cloud Storage Authorization](screenshots/cloud-storage-provider-selection-screen.png)
