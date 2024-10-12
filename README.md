@@ -8,10 +8,12 @@ This repository contains the executable file for **Powerful-Backup**, a simple a
 
 1. **Download the Executable:**
    - Visit the [Releases](https://github.com/HasanKarslioglu/Powerful-Backup-demo-release/tree/main/Releases) page.
-   - Download the latest version of `Powerful-Backup.exe`.
+   - Download the latest version of `PowerfulBackup_Setup.exe`.
 
 2. **Run the Executable:**
-   - Double-click the downloaded `Powerful-Backup.exe` to launch the application.
+   - Double-click the downloaded `PowerfulBackup_Setup.exe` to launch the application.
+   - Follow the on-screen instructions to complete the installation.
+   - The application will be installed in the default directory: C:\Program Files (x86)\PowerfullBackup.
 
 ### Usage
 
