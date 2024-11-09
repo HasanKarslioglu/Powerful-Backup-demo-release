@@ -51,6 +51,11 @@ This repository contains the executable file for **Powerful-Backup**, a simple a
 
 ## Screenshots
 
+### Screenshots from the Latest Version
+![New Feature 1](https://github.com/HasanKarslioglu/Powerful-Backup-demo-release/blob/main/screenshots/Version%200.03-1.png)
+
+### New Feature
+![New Feature 2](https://github.com/HasanKarslioglu/Powerful-Backup-demo-release/blob/main/screenshots/Version%200.03-2.png)
 
 ### Main Screen
 ![Main Screen](https://github.com/HasanKarslioglu/Powerful-Backup-demo-release/blob/main/screenshots/Main%20Screen.png)
